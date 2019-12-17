@@ -1,0 +1,17 @@
+#__nuxt,#__layout{
+    height: 100%;
+    background: #DDDDDD;
+}
+*{
+    list-style: none;
+}
+
+.clearfix:after {
+    content: "";
+    display: block;
+    height: 0;
+    clear: both;
+}
+.clearfix {
+    zoom: 1;
+}
